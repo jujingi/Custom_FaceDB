@@ -10,5 +10,5 @@
 
 ## 2. Image Manual
 <p align="left"><img src="https://user-images.githubusercontent.com/59816618/113269154-22a78e00-9313-11eb-90c9-0026a52c129f.PNG" width="60%" height="60%" title="crawler_example" alt="crawler_example"></img><br/><p>
-- 크롤링 후 front, side, back 폴더를 만든 후 사진을 구별하여 분류   
+- 크롤링 후 front, side, back 폴더를 만든 후 사진을 구별하여 분류<br>
 - 검색어 인물 이외의 다른 사람이 존재해도 무방(etc로 분류)
