@@ -10,7 +10,7 @@
 <p align="left"><img src="./crawler_example.gif" width="60%" height="50%" title="crawler_example" alt="crawler_example"></img><p>
 
 ## 2. Image Manual
-- 크롤링 후 category_tool을 사용하여 front, side, back 폴더를 만든 후 사진을 구별하여 분류
+- 크롤링 후 category_tool을 사용하여 front, side, back, delete 폴더를 만든 후 사진을 구별하여 분류(delete 폴더는 분류 후 삭제)
 - Category_tool: [classify_imgFile_tool](https://github.com/xylitol/Dataset_tools/tree/main/classify_imgFile_tool)
 - 검색어 인물 이외의 다른 사람이 존재해도 무방(labeling시 etc로 분류)
 <img src="https://user-images.githubusercontent.com/59816618/113269154-22a78e00-9313-11eb-90c9-0026a52c129f.PNG" width="60%" height="60%" title="crawler_example" alt="crawler_example"></img>
