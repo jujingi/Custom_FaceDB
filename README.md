@@ -15,7 +15,6 @@
 - 크롤링 후 category_tool을 사용하여 front, side, back 폴더를 만든 후 사진을 구별하여 분류
 - Category_tool: [classify_imgFile_tool](https://github.com/xylitol/Dataset_tools/tree/main/classify_imgFile_tool)
 - 검색어 인물 이외의 다른 사람이 존재해도 무방(labeling시 etc로 분류)
-
 - front image example<br>
 <img src="https://user-images.githubusercontent.com/59816618/113272111-40c2bd80-9316-11eb-9e81-455945f1b1a7.PNG" width="30%" height="30%" title="crawler_example" alt="crawler_example"></img><br>
  
