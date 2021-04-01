@@ -16,17 +16,17 @@
 - Category_tool: [classify_imgFile_tool](https://github.com/xylitol/Dataset_tools/tree/main/classify_imgFile_tool)
 - 검색어 인물 이외의 다른 사람이 존재해도 무방(labeling시 etc로 분류)
 
-- front image example
-<img src="https://user-images.githubusercontent.com/59816618/113272111-40c2bd80-9316-11eb-9e81-455945f1b1a7.PNG" width="60%" height="60%" title="crawler_example" alt="crawler_example"></img>
+- front image example<br>
+<img src="https://user-images.githubusercontent.com/59816618/113272111-40c2bd80-9316-11eb-9e81-455945f1b1a7.PNG" width="60%" height="60%" title="crawler_example" alt="crawler_example"></img><br>
  
-- side image example
-<img src="https://user-images.githubusercontent.com/59816618/113272476-9f883700-9316-11eb-8315-f54782a4211d.PNG" width="60%" height="60%" title="crawler_example" alt="crawler_example"></img>
+- side image example<br>
+<img src="https://user-images.githubusercontent.com/59816618/113272476-9f883700-9316-11eb-8315-f54782a4211d.PNG" width="60%" height="60%" title="crawler_example" alt="crawler_example"></img><br>
  
-- back image example
-<img src="https://user-images.githubusercontent.com/59816618/113272511-a747db80-9316-11eb-80c3-447702fb0a19.PNG" width="60%" height="60%" title="crawler_example" alt="crawler_example"></img>
+- back image example<br>
+<img src="https://user-images.githubusercontent.com/59816618/113272511-a747db80-9316-11eb-80c3-447702fb0a19.PNG" width="60%" height="60%" title="crawler_example" alt="crawler_example"></img><br>
 
 
-<p align="left"><img src="https://user-images.githubusercontent.com/59816618/113269709-b1b4a600-9313-11eb-8e73-5388b856d401.PNG" width="60%" height="60%" title="crawler_example" alt="crawler_example"></img><p>
+<img src="https://user-images.githubusercontent.com/59816618/113269709-b1b4a600-9313-11eb-8e73-5388b856d401.PNG" width="60%" height="60%" title="crawler_example" alt="crawler_example"></img><br>
 
 - 코드로 이미지 이름을 교체
 - 이미지의 최종 저장 이름은 유명인_숫자.jpg
