@@ -14,3 +14,5 @@
 - 검색어 인물 이외의 다른 사람이 존재해도 무방(labeling시 etc로 분류)
 
 <p align="left"><img src="https://user-images.githubusercontent.com/59816618/113269709-b1b4a600-9313-11eb-8e73-5388b856d401.PNG" width="60%" height="60%" title="crawler_example" alt="crawler_example"></img><br/><p>
+- 코드로 이미지 이름을 교체 - 코드로 이미지 이름을 교체
+- 이미지의 최종 저장 이름은 유명인_숫자.jpg
