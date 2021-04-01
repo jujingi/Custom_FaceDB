@@ -26,6 +26,9 @@
 <img src="https://user-images.githubusercontent.com/59816618/113269709-b1b4a600-9313-11eb-8e73-5388b856d401.PNG" width="60%" height="60%" title="crawler_example" alt="crawler_example"></img>
 
 ## 3. Labeling
+- RetinaFace로 모은 이미지에서 face detection 진행
+  * bounding box를 voc forma으로 xml 저장
+  * LabelImg를 사용하여 target 인물은 이름으로 다른 인물들은 etc로 labeling하여 bounding box 생성
 - Labeling_tool: [LabelImg](https://github.com/tzutalin/labelImg)
-- LabelImg를 사용하여 target 인물은 이름으로 다른 인물들은 etc로 labeling하여 bounding box 생성
 <img src="https://user-images.githubusercontent.com/59816618/113275726-0bb86a00-931a-11eb-8741-d6dd654b7838.jpg" width="50%" height="50%" title="crawler_example" alt="crawler_example"></img>
+- 
