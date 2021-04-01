@@ -5,6 +5,7 @@
 - 현재 chrome 버전 정보를 확인, 버전에 맞는 chromedriver를 다운
   * chrome 버전확인 링크: chrome://settings/help
   * 다른 버전의 chromedriver 다운로드 경로: [chromdriver](https://chromedriver.chromium.org/downloads)
+- 미리보기 이미지와 원본 이미지 가리지 않고 다운
 
 <p align="left"><img src="./crawler_example.gif" width="60%" height="50%" title="crawler_example" alt="crawler_example"></img><br/><p>
 
@@ -16,5 +17,8 @@
 - 검색어 인물 이외의 다른 사람이 존재해도 무방(labeling시 etc로 분류)
 
 <p align="left"><img src="https://user-images.githubusercontent.com/59816618/113269709-b1b4a600-9313-11eb-8e73-5388b856d401.PNG" width="60%" height="60%" title="crawler_example" alt="crawler_example"></img><br/><p>
-- 코드로 이미지 이름을 교체 - 코드로 이미지 이름을 교체<br>
-- 이미지의 최종 저장 이름은 유명인_숫자.jpg
+
+- 코드로 이미지 이름을 교체<br>
+- 이미지의 최종 저장 이름은 유명인_숫자.jpg<br>
+- 코드로 원본 이미지와 같은 미리보기 이미지 삭제(코드는 차후 공개)
+
