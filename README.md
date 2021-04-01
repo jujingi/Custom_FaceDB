@@ -8,7 +8,7 @@
 - 미리보기 이미지와 원본 이미지 가리지 않고 다운
 
 <p align="left"><img src="./crawler_example.gif" width="60%" height="50%" title="crawler_example" alt="crawler_example"></img><p>
-
+<br><br>
 ## 2. Image Manual
 - 크롤링 후 Category_tool을 사용하여 front, side, back로 사진을 구별하여 분류
 - Category_tool: [classify_imgFile_tool](https://github.com/xylitol/Dataset_tools/tree/main/classify_imgFile_tool)
@@ -24,7 +24,7 @@
 - 이미지 이름을 유명인_숫자.jpg로 재설정(코드는 쉬워서 공개x)
 - 코드로 원본 이미지와 같은 미리보기 이미지 삭제(코드는 차후 공개)
 <img src="https://user-images.githubusercontent.com/59816618/113269709-b1b4a600-9313-11eb-8e73-5388b856d401.PNG" width="60%" height="60%" title="crawler_example" alt="crawler_example"></img>
-
+<br><br>
 ## 3. Labeling
 - RetinaFace로 모은 이미지에서 face detection 진행
   * bounding box 위치 정보를 voc format으로 xml 파일 저장
@@ -33,5 +33,5 @@
 - Labeling example<br>
 <img src="https://user-images.githubusercontent.com/59816618/113276974-440c7800-931b-11eb-8eda-f308462c7a8d.PNG" width="50%" height="50%" title="crawler_example" alt="crawler_example"></img>
 <img src="https://user-images.githubusercontent.com/59816618/113277203-70c08f80-931b-11eb-9d6c-107d44175b38.PNG" width="50%" height="50%" title="crawler_example" alt="crawler_example"></img>
-
+<br><br>
 ## 4. Class
