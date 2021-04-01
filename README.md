@@ -20,8 +20,7 @@
 <img src="https://user-images.githubusercontent.com/59816618/113272476-9f883700-9316-11eb-8315-f54782a4211d.PNG" width="50%" height="50%" title="crawler_example" alt="crawler_example"></img>
 - back image example<br>
 <img src="https://user-images.githubusercontent.com/59816618/113272511-a747db80-9316-11eb-80c3-447702fb0a19.PNG" width="50%" height="50%" title="crawler_example" alt="crawler_example"></img>
-- 코드로 이미지 이름을 교체
-- 이미지의 최종 저장 이름은 유명인_숫자.jpg
+- 이미지 이름을 유명인_숫자.jpg로 재설정(코드는 쉬워서 공개x)
 - 코드로 원본 이미지와 같은 미리보기 이미지 삭제(코드는 차후 공개)
 <img src="https://user-images.githubusercontent.com/59816618/113269709-b1b4a600-9313-11eb-8e73-5388b856d401.PNG" width="60%" height="60%" title="crawler_example" alt="crawler_example"></img>
 
